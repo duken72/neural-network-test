@@ -1,3 +1,3 @@
 # Neural Network Test
 
-The test workspace for neural network
+The test workspace for neural networks
